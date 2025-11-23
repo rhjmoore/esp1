@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Mayflower",
   "author": "Ross Moore",
-  "website": "https://www.kevinahrendt.com/",
+  "website": "https://www.rossmoore.net/",
   "model": "./mayflower.tflite",
   "version": 1,
   "micro": {
